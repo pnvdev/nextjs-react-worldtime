@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { handleData } from "../lib/handleData";
-import styles from "../../styles/Card.module.css";
+import { handleData } from "/helpers/handleData";
+import styles from "/styles/Card.module.css";
 
 import { RiCloseCircleFill } from "react-icons/ri";
 

@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
 import styles from "../styles/Index.module.css";
 
-import Header from "./components/Header";
-import Search from "./components/Search";
-import Timezones from "./components/Timezones";
-import Footer from "./components/Footer";
+import Header from "../components/Header";
+import Search from "../components/Search";
+import Timezones from "../components/Timezones";
+import Footer from "../components/Footer";
 
 export default function Home() {
   const [query, setquery] = useState("");
