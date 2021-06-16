@@ -1,4 +1,4 @@
-# TODO LIST
+# TIMEZONES SEARCH
 ## A timezones search app made with React over Next.js
 
 DEMO: 
