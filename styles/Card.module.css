@@ -1,0 +1,20 @@
+.card{
+  padding: 25px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 10px ;
+  text-align: center;
+  position: relative;
+  background-color: #bce4ff;
+}
+
+.close{
+  cursor: pointer;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.timezone{
+  font-weight: bold;
+}
