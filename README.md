@@ -1,5 +1,5 @@
 # TIMEZONES SEARCH
-## A timezones search app made with React over Next.js
+## A timezones search made with React over Next.js
 
 DEMO: 
 
